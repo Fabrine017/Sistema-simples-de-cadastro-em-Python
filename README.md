@@ -83,7 +83,7 @@ cd Sistema-de-Cadastro
 ### 3. Execute o programa
 
 ```bash
-python "Meu sistema de cadastro.py"
+python sistema.py
 ```
 
 ---
